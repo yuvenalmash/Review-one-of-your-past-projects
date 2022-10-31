@@ -1,7 +1,7 @@
 #player{
 	position:fixed;
 	margin:10;
-	width:60%;
+	width:60% !important;
 	height:auto;
 	border: 1px solid red;
 }
@@ -13,7 +13,7 @@
 }
 #right-panel{
     width: 35%;
-    float: right;
+    float: right !important; 
     margin: 10;
     border: 1px solid red;
 }
