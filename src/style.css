@@ -1,0 +1,19 @@
+#player{
+	position:fixed;
+	margin:10;
+	width:60%;
+	height:auto;
+	border: 1px solid red;
+}
+
+#player video{
+    position: fixed;
+    width: 60% !important;
+    height: auto !important;
+}
+#right-panel{
+    width: 35%;
+    float: right;
+    margin: 10;
+    border: 1px solid red;
+}
